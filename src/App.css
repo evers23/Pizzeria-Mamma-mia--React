@@ -1,0 +1,21 @@
+.header {
+  background-color: #fff; 
+}
+
+.cardPizza {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  margin: 20px; /* Ajuste de margen */
+}
+
+.list {
+  gap: 1rem; /* Reducción del espacio entre elementos */
+}
+
+.cart {
+  background-color: #fff; 
+}
+
+.thanks {
+  background-color: #f8f8f8; 
+  text-align: center; /* Alineación del texto al centro */
+}
